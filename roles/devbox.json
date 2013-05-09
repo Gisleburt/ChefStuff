@@ -1,0 +1,23 @@
+{
+	"json_class": "Chef::Role",
+	"name": "devbox",
+	"chef_type": "role",
+	"run_list": [
+		"apt",
+		"vim",
+		"lynx",
+		"git",
+		"subversion",
+		"apache2",
+		"mc",
+		"memcached",
+		"mysql-server",
+		"php5",
+		"php5-mysql",
+		"php5-mcrypt",
+		"php5-memcache",
+		"php5-memcached",
+		"php5-xdebug",
+		"openjdk-6-jdk"
+	]
+}

@@ -3,6 +3,9 @@
 	"name": "frontend",
 	"chef_type": "role",
 	"run_list": [
-		"rubygems"
+		"rubygems",
+		"gem-sass",
+		"gem-ruby",
+		"gem-compass"
 	]
 }

@@ -5,7 +5,6 @@
 	"run_list": [
 		"rubygems",
 		"gem-sass",
-		"gem-ruby",
 		"gem-compass"
 	]
 }

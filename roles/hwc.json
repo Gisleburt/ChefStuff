@@ -1,0 +1,18 @@
+{
+	"json_class": "Chef::Role",
+	"name": "hwc",
+	"chef_type": "role",
+	"run_list": [
+		"apt",
+		"vim",
+		"lynx",
+		"git",
+		"curl",
+		"apache2",
+		"mc",
+		"mysql-server",
+		"php5",
+		"php5-mysql",
+		"php5-xdebug"
+	]
+}
